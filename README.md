@@ -1,4 +1,4 @@
-## <center>😽멋쟁이사자처럼 & K-DIGITAL Training😽</center>
+ <center> 😽멋쟁이사자처럼 & K-DIGITAL Training😽 </center>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 📅 2021.05.31 ~ 2021.08.13
 
-👩🏻‍💻 (3기 8회차) 데이터 수집부터 인공지능을 활용한 웹 구현까지
+👩🏻‍💻 3기 8회차 - 데이터 수집부터 인공지능을 활용한 웹 구현까지
 
 📌 https://juran-devblog.tistory.com/category/python/k-digital
 
