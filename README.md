@@ -1,4 +1,4 @@
-## 😽멋쟁이사자처럼 & K-DIGITAL Training😽
+## <center>😽멋쟁이사자처럼 & K-DIGITAL Training😽</center>
 
 <br>
 
@@ -24,8 +24,8 @@
               - 텍스트데이터 처리 및 시각화
 
     Part4-1. 기초 통계분석 이론과 실습
-                - pandas
-                - numpy
+              - pandas
+              - numpy
 
     Part4-2. SQL 익히기
               - SQLite 실습
