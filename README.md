@@ -1,4 +1,4 @@
-## <p style="text-align:center; font-size:30px;"> 🦁멋쟁이사자처럼 & K-DIGITAL Training🦁 </p>
+<p style="text-align:center; font-size:30px;"> 🦁멋쟁이사자처럼 & K-DIGITAL Training🦁 </p>
 
 <br>
 
