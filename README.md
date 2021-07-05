@@ -30,7 +30,7 @@
               - pandas
               - numpy
               
-    Semi-Project-1. 서울시 자전거 교통사고 분석 (team2)
+    SemiProject-1. 서울시 자전거 교통사고 분석 (team2)
 
     Part4-2. SQL 익히기
               - SQLite 실습
@@ -40,4 +40,4 @@
               - 알고리즘 성능 평가 (accuray-score)
               - hyper parameter optimization
 
-    Semi-Project-2. 타이타닉 생존 예측 (team3)
+    SemiProject-2. 타이타닉 생존 예측 (team3)
