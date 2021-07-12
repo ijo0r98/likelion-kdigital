@@ -5,4 +5,4 @@ mid-project-1/data
 **/._*
 .DS_Stor
 
-.ipynb_checkpoints
+**/.ipynb_checkpoints
