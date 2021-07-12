@@ -3,4 +3,6 @@ mid-project-1/data
 
 **/.DS_Store
 **/._*
-.DS_Store
+.DS_Stor
+
+.ipynb_checkpoints
