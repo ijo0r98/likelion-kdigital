@@ -6,3 +6,5 @@ semi-project-3/team
 .DS_Stor
 
 **/.ipynb_checkpoints
+
+**/catboost_info/*
