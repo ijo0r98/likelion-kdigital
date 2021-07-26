@@ -30,7 +30,7 @@
             - pandas
             - numpy
               
-    Semi-Project. 서울시 자전거 교통사고 분석 (team2)
+    Semi-Project1. 서울시 자전거 교통사고 분석 (team2)
 
     Part4-2. SQL 익히기
             - SQLite 실습
