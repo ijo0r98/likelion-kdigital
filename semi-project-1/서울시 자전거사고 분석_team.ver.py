@@ -330,7 +330,7 @@ geo_path = 'data/yong/skorea_municipalities_geo_simple.json'
 geo_str = json.load(open(geo_path, encoding='utf-8'))
 
 # # 구글맵 API 사용하여 각 구의 위치 확인(x)
-# gmaps = googlemaps.Client(key="AIzaSyA4Fkb9LxpY02oIuwm4y-yhUS3TsTss8g4")
+# gmaps = googlemaps.Client(key="{service_key}")
 
 # lat = []
 # lng = []
@@ -601,7 +601,7 @@ guGun_list2 = {
 }
 
 # query param
-service_key = '%2BAWnyLrxdxmjreCkVW86y7jmJw2Jzk%2BYQEqCJk8Cv3hTgcYeCfjXSz48r%2BRd6%2F0%2BHTaVN88iJgKhQthIUyxgeA%3D%3D'
+service_key = '{service_key}'
 base_url = 'http://apis.data.go.kr/B552061/frequentzoneBicycle/getRestFrequentzoneBicycle'
 searchYearCd = '2015'
 siDo = '11'
