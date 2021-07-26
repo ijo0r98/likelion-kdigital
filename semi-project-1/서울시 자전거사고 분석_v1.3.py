@@ -270,7 +270,7 @@ guGun_list2 = {
 }
 
 # query param
-service_key = '%2BAWnyLrxdxmjreCkVW86y7jmJw2Jzk%2BYQEqCJk8Cv3hTgcYeCfjXSz48r%2BRd6%2F0%2BHTaVN88iJgKhQthIUyxgeA%3D%3D'
+service_key = '{api_key}'
 base_url = 'http://apis.data.go.kr/B552061/frequentzoneBicycle/getRestFrequentzoneBicycle'
 searchYearCd = '2015'
 siDo = '11'
