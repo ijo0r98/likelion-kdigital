@@ -14,6 +14,7 @@
 
 📝 커리큘럼
         
+        
         Part1. 빠르게 익히는 파이썬 프로그래밍 기초
                 
         Part2. pandas와 matplot 이용한 정형데이터 분석
@@ -39,3 +40,4 @@
         Part7. 파이썬 Django 실습
 
         Finalproject.
+        
