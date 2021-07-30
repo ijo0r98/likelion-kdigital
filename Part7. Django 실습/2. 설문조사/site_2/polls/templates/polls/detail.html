@@ -1,0 +1,26 @@
+{% extends 'polls/base.html' %}
+{% block content %}
+
+<h2>{{ question.question_text }}</h2>
+
+{% if error_message %}
+<p><strong>{{ error_message }}</strong></p>
+
+{% endif %}
+
+<form action="{% url 'polls:vote' question_id=question.id %}" method="post"> <!--quiestion_id/vote/ post 요청-->
+<!-- <form action="{% url 'polls:vote' question.id %}" method="post"> # 하나일 때 파라미터명 생략 가능 -->
+  {% csrf_token %}
+  {% for choice in question.choice_set.all %}
+  <!-- label의 for와 대상의 id 동일해야함(라벨 클릭 시 인풋박스 선택됨) -->
+
+  <!--forloop.counter 1씩 증가-->
+  <input type="radio" name="choice_select" id="choice{{ forloop.counter }}" value="{{ choice.id }}">
+  <label for="choice{{ forloop.counter }}">{{ choice.choice_text }}</label>
+  <br>
+
+  {% endfor %}
+  <input type="submit" value="Vote">
+</form>
+
+{% endblock %}
