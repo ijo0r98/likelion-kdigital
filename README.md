@@ -1,4 +1,4 @@
-## 🦁멋쟁이사자처럼 & K-DIGITAL Training🦁 
+## LIKELION & K-DIGITAL TRAINING 인공지능 통합과정
 
 <br>
 
@@ -6,44 +6,34 @@
 
 <br>
 
-📅 2021.05.31 ~ 2021.08.13
+- 📅  2021.05.31 ~ 2021.08.13
 
-👩🏻‍💻 3기 8회차 - 데이터 수집부터 인공지능을 활용한 웹 구현까지
+- 📌 https://juran-devblog.tistory.com/category/python/k-digital
 
-📌 https://juran-devblog.tistory.com/category/python/k-digital
+- 📝 커리큘럼
 
-📝커리큘럼
+        1. 빠르게 익히는 파이썬 프로그래밍 기초
+        
+        2. pandas와 matplot 이용한 정형데이터 분석
 
-    Part1. 빠르게 익히는 파이썬 프로그래밍
-            - 파이썬 프로그래밍 기초
-              
-    Part2. 정형데이터 분석
-            - pandas 이용하여 데이터프레임 다루기
-            - matplotlib 데이터 시각화
-
-    Part3. 웹 스크랩핑과 크롤링, 텍스트데이터 분석
-            - requests 라이브러리 이용한 HTTP 요청
-            - selenium
-            - 텍스트데이터 처리 및 시각화
-
-    Part4-1. 기초 통계분석 이론과 실습
-            - pandas
-            - numpy
-              
-    Semi-Project1. 서울시 자전거 교통사고 분석 (team2)
-
-    Part4-2. SQL 익히기
-            - SQLite 실습
-
-    Part5. 머신러닝 알고리즘과 실습
-            - scikit-learn 라이브러리 이용한 다양한 머신러닝 알고리즘 실습
-            - 알고리즘 성능 평가 (accuray-score)
-            - hyper parameter optimization
-
-    Semi-Project2. 타이타닉 생존 예측 (team3)
-
-    Part6. 딥러닝 핵심 이론과 실습
-            - 인공신경망이란
-            - tensorflow 라이브러리 이용한 딥러닝 알고리즘 실습
-            
-    Semi-Project3. Dacon 주차수요예측AI 경진대회 (team2)
+        3. 웹 스크랩핑과 크롤링, 텍스트 데이터 분석
+        
+        4-1. 기초 통계분석 이론과 실습
+        
+        Semiproject1. 서울시 자전거 교통사고 분석 (team2)
+        
+        4-2. SQLite 실습을 통해 SQL 익히기
+        
+        5. 머신러닝 알고리즘과 scikit-learn 이용한 다양한 실습
+        
+        Semiproject2. 타이타닉 생존 예측 (team1)
+        
+        Midproject. 사용자 별점기반 영화 추천 서비스
+        
+        6. 딥러닝 핵심 이론과 tensorflow 실습
+        
+        Semiproject3. Dacon 주차수요예측AI 경진대회
+        
+        7. 파이썬 Django
+        
+        Finalproject.
