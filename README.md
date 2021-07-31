@@ -13,31 +13,19 @@
 📌 https://juran-devblog.tistory.com/category/python/k-digital
 
 📝 커리큘럼
-        
-        
-        Part1. 빠르게 익히는 파이썬 프로그래밍 기초
-                
-        Part2. pandas와 matplot 이용한 정형데이터 분석
 
-        Part3. 웹 스크랩핑과 크롤링, 텍스트 데이터 분석
-                
-        Part4-1. 기초 통계분석 이론과 실습
-                
-        Semiproject1. 서울시 자전거 교통사고 분석 (team2)
-
-        Part4-2. SQLite 실습을 통해 SQL 익히기
-
-        Part5. 머신러닝 알고리즘과 scikit-learn 이용한 다양한 실습
-
-        Semiproject2. 타이타닉 생존 예측 (team1)
-
-        Midproject. 사용자 별점기반 영화 추천 서비스
-
-        Part6. 딥러닝 핵심 이론과 tensorflow 실습
-
-        Semiproject3. Dacon 주차수요예측AI 경진대회
-
-        Part7. 파이썬 Django 실습
-
-        Finalproject.
-        
+|회차|주제||
+|:---:|:---:|:---|
+|1|파이썬 프로그래밍 기초||
+|2|파이썬을 활용한 정형데이터 분석과 시각화|pandas를 이용한 데이터프레임 다루기 <br/>matplot을 이용한 시각화|
+|3|파이썬을 활용한 웹 스크랩핑과 텍스트데이터 분석|knolpy & nltk 텍스트데이터 분석<br/>selenium 웹 크롤링|
+|4-1|파이썬을 활용한 기초 통계분석|빈도분석과 이상치, 상관관계 분석|
+|semi-project-1|데이터 수집/전처리/통계분석/시각화|서울시 자전거 교통사고 분석(team2)|
+|4-2|파이썬 기반 DB & SQL 기초 프로그래밍|SQLite|
+|5|머신러닝 핵심 이론과 실습|Scikit-learn 라이브러리를 이용한 머신러닝 실습|
+|semi-project-2|데이터 전처리 + 머신러닝 적용|타이타닉 생존 예측(team1)|
+|mid-project|텍스트 데이터 기반 수집과 전처리, 각종 분석기법 적용|사용자 별점기반 영화 추천 서비스(team3)|
+|6|딥러닝 핵심 개념과 최적화 이론|Tensorflow 실습|
+|semi-project-3|데이터 수집/전처리/통계분석/시각화 + 머신러닝/딥러닝|Dacon 주차수요예측 AI 경진대회(team2)|
+|7|Django를 활용한 파이썬 기반 웹 프로그래밍|Django 웹 프로그래밍 기초<br/>이미지파일 처리와 openCV<br/> pythonanywhere 배포|
+|final-project||
