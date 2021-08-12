@@ -28,4 +28,4 @@
 |**Part6**|딥러닝 핵심 개념과 최적화 이론|Tensorflow 실습|
 |**SemiProject3**|데이터 수집부터 시각화 + 머신러닝/딥러닝|Dacon 주차수요예측 AI 경진대회(team2)|
 |**Part7**|Django를 활용한 파이썬 기반 웹 프로그래밍|Django 웹 프로그래밍 기초<br/>이미지파일 처리와 openCV<br/> pythonanywhere 배포|
-|**FinalProject**|파이널 프로젝트||
+|**FinalProject**|파이널 프로젝트|Django 이용한 맥주 추천 서비스|
